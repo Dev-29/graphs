@@ -1,2 +1,2 @@
 # graphs
-Graph Algorithms implemented in C++
+Graph Algorithms Implemented in C++
